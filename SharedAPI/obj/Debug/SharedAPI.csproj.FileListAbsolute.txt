@@ -1,0 +1,9 @@
+C:\Users\Asus\source\repos\SharedAPI\SharedAPI\bin\Debug\SharedAPI.dll
+C:\Users\Asus\source\repos\SharedAPI\SharedAPI\bin\Debug\SharedAPI.pdb
+C:\Users\Asus\source\repos\SharedAPI\SharedAPI\bin\Debug\log4net.dll
+C:\Users\Asus\source\repos\SharedAPI\SharedAPI\bin\Debug\log4net.xml
+C:\Users\Asus\source\repos\SharedAPI\SharedAPI\obj\Debug\SharedAPI.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\SharedAPI\SharedAPI\obj\Debug\SharedAPI.dll
+C:\Users\Asus\source\repos\SharedAPI\SharedAPI\obj\Debug\SharedAPI.pdb
+C:\Users\Asus\source\repos\SharedAPI\SharedAPI\obj\Debug\SharedAPI.csprojResolveAssemblyReference.cache
+C:\Users\Asus\source\repos\SharedAPI\SharedAPI\bin\Debug\SharedAPI.dll.config
